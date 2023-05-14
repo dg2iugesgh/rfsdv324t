@@ -1,5 +1,5 @@
 wl = 
 {
-    ["yazagit_lera2013369239988"] = "B",
+    ["yazagit_lera20133692399888"] = "B",
     ["Inventarik23139198584"] = "B"
 }
