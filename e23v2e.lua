@@ -1,4 +1,5 @@
-whitelist = { 
-  ["yazagit_lera2013"] = 1,
-  ["Inventarik2"] = 1
+local wl = 
+{
+    ["yazagit_lera20133692399888"] = "B",
+    ["Inventarik23139198584"] = "B"
 }
