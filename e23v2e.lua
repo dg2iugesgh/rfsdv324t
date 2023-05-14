@@ -1,5 +1,4 @@
 bl = {
     "GreeAlwaysComeBack",
-    "kovax123",
-    "yazagit_lera2013"
+    "kovax123"
 }
