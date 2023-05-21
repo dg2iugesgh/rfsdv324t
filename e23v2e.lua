@@ -4,5 +4,6 @@ bl = {
 }
 
 pr = {
-    "misqusi"
+    "misqusi",
+    "yazagit_lera2013"
 }
