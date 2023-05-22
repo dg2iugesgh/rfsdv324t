@@ -3,7 +3,7 @@ bl = {
     "Kovax1234"
 }
 
-pr = {
+print_ = {
     "misqusi",
     "yazagit_lera2013",
     "abobusik_1341",
