@@ -7,6 +7,7 @@ bl = {
 
 print_ = {
     "misqusi",
+    "range_0xE4",
     "yazagit_lera2013",
     "abobusik_1341",
     "BanHopeThanks",
