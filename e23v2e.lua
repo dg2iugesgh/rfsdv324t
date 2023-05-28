@@ -6,7 +6,7 @@ bl = {
 }
 
 print_ = {
-    "misqusi",
+    "misqusie",
     "range_0xE4",
     "yazagit_lera2013",
     "abobusik_1341",
