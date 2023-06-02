@@ -12,6 +12,6 @@ print_ = {
     "mud9bud13",
     "yazagit_lera2013",
     "abobusik_1341",
-    "BanHopeThanks",
+    "PassResetBot",
     "ma34za92fa26ka"
 }
