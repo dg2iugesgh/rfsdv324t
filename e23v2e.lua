@@ -8,6 +8,7 @@ bl = {
 print_ = {
     "misqusi",
     "range_0xE4",
+    "Coreyv3",
     "Yoyeet119",
     "mud9bud13",
     "yazagit_lera2013",
