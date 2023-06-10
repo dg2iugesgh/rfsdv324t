@@ -8,6 +8,7 @@ nil_ = {
     "PassResetBot4079259282",
     "ma34za92fa26ka4567239635",
     "5k4d0504734674",
+    "Pasha304131331945361",
     "NechiporenkO114687168763",
     "Coreyv34529549876"
 }
