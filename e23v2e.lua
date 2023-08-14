@@ -9,7 +9,7 @@ print_ = {
     "misqusi",
     "range_0xE4",
     "5k4d0",
-    "Coreyv3",
+    "theres_onlyonewayout",
     "Yoyeet119",
     "Denis_Egorka2Team",
     "mud9bud13",
