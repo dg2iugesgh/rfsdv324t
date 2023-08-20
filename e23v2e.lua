@@ -25,7 +25,7 @@ print_ = {
     "GreatTimez12",
     "abobusik_1341",
     "stepkaPr27",
-    "Dodo43006",
+    "kolasikus357",
     "PassResetBot",
     "AliKiller2013_uww",
     "NechiporenkO11",
