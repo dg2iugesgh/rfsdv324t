@@ -29,6 +29,6 @@ print_ = {
     "PassResetBot",
     "AliKiller2013_uww",
     "NechiporenkO11",
-    "kv44er",
+    "baltikasose",
     "ma34za92fa26ka"
 }
