@@ -7,7 +7,6 @@ acc_y = {
     "4079259282PassResetBot",
     "4567239635ma34za92fa26ka",
     "2828917417GreatTimez12",
-    "4645155948range_0xE4",
     "5047346745k4d0",
     "3145974469SeasideBank",
     "3569717962SlXF0RTYSEVEN",
